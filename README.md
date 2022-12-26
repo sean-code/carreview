@@ -6,7 +6,7 @@ An application where users can view car ratings,average market price, used car i
 - [John Nganga](https://github.com/sean-code)
 
 ## Front-end
-- Deployed here](https://sean-code.github.io/Client-Car-Review-App/)
+- [Deployed Here](https://sean-code.github.io/Client-Car-Review-App/)
 - Sign into a specific user
 - View cars on log in
 - Search for cars
@@ -15,6 +15,7 @@ An application where users can view car ratings,average market price, used car i
 - Designed the User Interface with custom CSS and Javascript to create a modern, smooth UI
 
 ## Back-end
+- [Deployed Here](https://carreview-production.up.railway.app/)
 - Utilized Ruby on Rails to rapidly develop and deploy application using MVC framework
 
 - Integrated Ruby on Rails’ ActiveRecord to perform database operations in an object-oriented fashion and represent associations between models
