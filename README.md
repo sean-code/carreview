@@ -55,7 +55,7 @@ An application where users can view car ratings,average market price, used car i
 ## Technology Used
 * Ruby
 * Rails
-* sqlite3
+* Postgres
 
 ## License
 MIT License\
